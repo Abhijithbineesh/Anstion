@@ -2,8 +2,8 @@
 
 @import url("../styles/theme.css");
 
-@plugin "tailwindcss-animate"; 
-@plugin "@tailwindcss/forms"; 
+/* @plugin "tailwindcss-animate"; 
+@plugin "@tailwindcss/forms";  */
 
 
 
